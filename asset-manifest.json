@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TextTransformer/static/css/main.ccd9ef04.css",
+    "main.js": "/TextTransformer/static/js/main.41f55629.js",
+    "static/js/787.719ec76d.chunk.js": "/TextTransformer/static/js/787.719ec76d.chunk.js",
+    "index.html": "/TextTransformer/index.html",
+    "main.ccd9ef04.css.map": "/TextTransformer/static/css/main.ccd9ef04.css.map",
+    "main.41f55629.js.map": "/TextTransformer/static/js/main.41f55629.js.map",
+    "787.719ec76d.chunk.js.map": "/TextTransformer/static/js/787.719ec76d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ccd9ef04.css",
+    "static/js/main.41f55629.js"
+  ]
+}
